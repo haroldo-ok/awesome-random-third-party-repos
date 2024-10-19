@@ -2,6 +2,7 @@
 Just a manually curated list of third party GitHub repositories which I may or may not use for future projects
 
 Tile based map editors that run directly on browser
+- https://github.com/kevinputnam/js_basic_game
 - https://github.com/piyoppi/pico2map
 - https://github.com/kdridi/gbeditor
 - https://github.com/OlaAtKongotec/a-tile-map-editor
