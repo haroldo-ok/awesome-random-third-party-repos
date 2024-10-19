@@ -9,4 +9,5 @@ Tile based map editors that run directly on browser
 - https://github.com/SanjoSolutions/tilemap-editor
 
 Tileset editors that run directly on browser
+- https://github.com/jannone/msx-tinysprite
 - https://github.com/kdridi/gbeditor
