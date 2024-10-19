@@ -4,6 +4,7 @@ Just a manually curated list of third party GitHub repositories which I may or m
 Tile based map editors that run directly on browser
 - https://github.com/piyoppi/pico2map
 - https://github.com/kdridi/gbeditor
+- https://github.com/OlaAtKongotec/a-tile-map-editor
 
 Tileset editors that run directly on browser
 - https://github.com/kdridi/gbeditor
