@@ -13,6 +13,7 @@ Just a manually curated list of third party GitHub repositories which I may or m
 ## Tileset editors that run directly on browser
 - https://github.com/jannone/msx-tinysprite
 - https://github.com/kdridi/gbeditor
+- https://github.com/eonarheim/NES-Sprite-Editor
 
 ## Micro game making tools
 - https://github.com/toolness/mobile-microgame-maker
