@@ -14,6 +14,7 @@ Just a manually curated list of third party GitHub repositories which I may or m
 - https://github.com/wcarss/editor
 - https://onemandev-io.github.io/tilemap-editor/
 - https://github.com/Mapuut/TileMapEditor
+- https://github.com/Amalg016/TileMapEditor
 
 ## Tileset/sprite editors that run directly on browser
 - https://github.com/jannone/msx-tinysprite
