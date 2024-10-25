@@ -10,6 +10,7 @@ Just a manually curated list of third party GitHub repositories which I may or m
 - https://github.com/SanjoSolutions/tilemap-editor
 - https://github.com/adriano-t/tileeditor
 - https://github.com/blurymind/tilemap-editor
+- https://github.com/billernet/TileMap-Editor
 
 ## Tileset/sprite editors that run directly on browser
 - https://github.com/jannone/msx-tinysprite
